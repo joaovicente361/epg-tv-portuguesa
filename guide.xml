@@ -477,6 +477,10 @@
     <display-name lang="pt">SPORT TV +</display-name>
     <url>http://www.nos.pt</url>
   </channel>
+    <channel id="SPORT TV 6">
+    <display-name lang="pt">SPORT TV 6</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
   <channel id="SPORT TV 4K UHD">
     <display-name lang="pt">SPORT TV 4K UHD</display-name>
     <url>http://www.nos.pt</url>
